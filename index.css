@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container{
+    border: 2px solid blue;
+    margin: 3px 0;
+    background: cyan;
+
+}
+.bg-primary{
+    background-color :yellow ;}
+.text-sucess
+    {
+        color : red;
+    }
+
+             
